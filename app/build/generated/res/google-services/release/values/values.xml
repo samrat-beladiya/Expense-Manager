@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">324487016862-gs2eu0hecspdtdlj7jpe747c8vorg07v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">324487016862</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjFAitr6FMPHDW0tdYAKOcqOXWDYJoH-k</string>
+    <string name="google_app_id" translatable="false">1:324487016862:android:3c2e26e256589233bce68f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjFAitr6FMPHDW0tdYAKOcqOXWDYJoH-k</string>
+    <string name="google_storage_bucket" translatable="false">expense-manager-fd5db.appspot.com</string>
+    <string name="project_id" translatable="false">expense-manager-fd5db</string>
+</resources>

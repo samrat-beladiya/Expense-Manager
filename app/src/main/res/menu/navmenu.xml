@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+    <item android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/dashboard"/>
+<!--    <item android:id="@+id/stats"-->
+<!--        android:title="Stats"-->
+<!--        android:icon="@drawable/stats"/>-->
+
+    <item android:id="@+id/income"
+        android:title="Income"
+        android:icon="@drawable/income"/>
+
+    <item android:id="@+id/expense"
+        android:title="Expense"
+        android:icon="@drawable/expense"/>
+    </group>
+    <group android:id="@+id/group3">
+        <item android:id="@+id/account"
+            android:title="Profile"
+            android:icon="@drawable/account"/>
+    </group>
+
+    <item android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_about">
+
+    </item>
+    <group android:id="@+id/group2">
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+    </group>
+</menu>

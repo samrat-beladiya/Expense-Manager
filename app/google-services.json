@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324487016862",
+    "project_id": "expense-manager-fd5db",
+    "storage_bucket": "expense-manager-fd5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324487016862:android:3c2e26e256589233bce68f",
+        "android_client_info": {
+          "package_name": "com.example.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324487016862-5d4fol8kk6n4053bs17o7h98mn5g9gar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensemanager",
+            "certificate_hash": "dd439b23d957dd0b58c0a66253f78688673457b6"
+          }
+        },
+        {
+          "client_id": "324487016862-gs2eu0hecspdtdlj7jpe747c8vorg07v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFAitr6FMPHDW0tdYAKOcqOXWDYJoH-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324487016862-gs2eu0hecspdtdlj7jpe747c8vorg07v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

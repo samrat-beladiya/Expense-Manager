@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_account_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_check_internet.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_check_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_background_color.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_account_foreground.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\account_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_app_logo.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_income.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-mdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font5.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font5.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi_stats.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-anydpi\\stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\raw_rupees_load.json.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\raw\\rupees_load.json"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\anim_splash_bottom.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\anim\\splash_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_app_logo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_stats.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_about_toolbar.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\about_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_account_foreground.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\account_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_app_logo_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\app_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_app_logo_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_profile_person.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_profile_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_app_logo_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_dashboard.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xxhdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font6.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font6.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xxhdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_dashboard.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-mdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi_account.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-anydpi\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_delete_forever.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_delete_forever.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_account_foreground.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\account_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\anim_splash_top.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\anim\\splash_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_progress_dialog.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_stats.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xhdpi\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_expense.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xxhdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\raw_wallet.json.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\raw\\wallet.json"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_dashboard_income.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\dashboard_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_expense.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_app_logo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_income.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_custom_layout_for_insertdata.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\custom_layout_for_insertdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_app_logo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\menu_bottommenu.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\menu\\bottommenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xhdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font8.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font8.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\menu_navmenu.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\menu\\navmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_stats.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xxhdpi\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi_logout.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-anydpi\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_app_logo_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\app_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_internet_bg.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\internet_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_stats.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_expense.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xhdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_update_data_item.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\update_data_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_app_logo_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\app_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font9.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font9.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_u1.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\u1.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_appbar_layout.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\appbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_expense.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\fragment_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\anim_rotate_forward.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\anim\\rotate_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\anim_fade_open.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\anim\\fade_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_app_logo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_account_foreground.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\account_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font2.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font2.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_profile_toolbar.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\profile_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_income.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_navigation_header.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi_expense.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-anydpi\\expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_expense_recycler_data.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\expense_recycler_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_account_foreground.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\account_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font3.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font3.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_dashboard.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xhdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_account_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_about.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\ic_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\anim_rotate_backward.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\anim\\rotate_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_account_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\raw_rs.json.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\raw\\rs.json"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_logout.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_stats.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-mdpi\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_account_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xhdpi\\account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_income.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-xxhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_expense.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-mdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_income.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\fragment_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_account_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_app_logo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font4.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font4.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_account.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi_dashboard.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-anydpi\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_user_image.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\user_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_app_logo_round.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_dashboard.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-hdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_income_recycler_data.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\income_recycler_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_app_logo_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\app_logo_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\raw_no_internet_file.json.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\raw\\no_internet_file.json"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_dashboard_expense.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\dashboard_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font7.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font7.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\font_font1.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\font\\font1.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\raw_profile.json.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\raw\\profile.json"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\anim_fade_close.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\anim\\fade_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_account_round.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\account_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi_income.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-anydpi\\income.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_account.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable-mdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_diamond.jpg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\diamond.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\build\\intermediates\\merged_res\\release\\drawable_delete_confrmation.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Ad\\ExpenseManagerApp-main\\app\\src\\main\\res\\drawable\\delete_confrmation.xml"
+    }
+]
